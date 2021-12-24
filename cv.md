@@ -1,0 +1,1 @@
+![Natalia Kondratieva](NatkaKon.png)
