@@ -1,3 +1,28 @@
 .main-container {
     display: flex;
 }
+.two-columns {
+    display: flex;
+}
+.right-column .sub-header {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.right-column .summary .sub-header {
+    margin-top: 0px;
+}
+
+li > a {
+    /*возможно нужно убрать*/
+    display: block;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: #ffffff;
+    background-color: violet;
+}
