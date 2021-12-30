@@ -1,3 +1,16 @@
+element.style {
+
+}
+head {
+    display: none;
+}
+body{
+    box-sizing: border-box;
+    background-color: rgb(63, 65, 230);
+}
+body{
+
+}
 .main-container {
     display: flex;
 }
@@ -25,4 +38,12 @@ footer {
     font-size: 0.8rem;
     color: #ffffff;
     background-color: violet;
+}
+.my-github {
+    display: flex;
+    align-items: center;
+}
+footer a {
+    text-decoration: none;
+    color: yellowgreen;
 }
