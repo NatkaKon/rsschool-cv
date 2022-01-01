@@ -1,0 +1,83 @@
+[33mcommit 69f080e9415cdff4a7e5d1c39de18c3da31e7384[m[33m ([m[1;36mHEAD -> [m[1;32mrsschool-cv-html[m[33m)[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Wed Dec 29 23:34:25 2021 +0300
+
+    feat: add letf column to cv
+
+[33mcommit 6455ae892dcc413ce3f1b3017a89f2441b044a91[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Wed Dec 29 17:39:29 2021 +0300
+
+    feat:add directory for images
+
+[33mcommit b2fc7a4c44a415b5487f14236e0d4309a8a4e0d7[m[33m ([m[1;31morigin/rsschool-cv-html[m[33m)[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Sat Dec 25 00:53:12 2021 +0300
+
+    feat:connect style.css
+
+[33mcommit fffccabb85cbe942a606a866b3235620ca2669d4[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Sat Dec 25 00:49:21 2021 +0300
+
+    feat:add DOCTYPE html
+
+[33mcommit bb1bb1c20120ae68b7af84f846aa56c136281c5c[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Sat Dec 25 00:40:55 2021 +0300
+
+    feat:correct link README.md
+
+[33mcommit 567a838c432e498d8a7cab01bbf6cb4f1b7a0856[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Sat Dec 25 00:38:01 2021 +0300
+
+    feat:change link in README.md
+
+[33mcommit 786209dcc4f3ec4ebd0042403002874486c1a2fb[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Sat Dec 25 00:28:04 2021 +0300
+
+    feat:add style.css
+
+[33mcommit ad6ac2111930ed0267c9ca4173477c01e1eef058[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Sat Dec 25 00:24:10 2021 +0300
+
+    feat: add index.html
+
+[33mcommit 5c11abb3e61800abb357bcc9e8f80a8394dedc65[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Sat Dec 25 00:02:22 2021 +0300
+
+    feat: update README.md
+
+[33mcommit 566eb46a4e27d08ab287a355f50f66b0797b00b5[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Sat Dec 25 00:00:24 2021 +0300
+
+    feat: add cv content in markdown
+
+[33mcommit d0e8711eb80e62f5d725a8483f12dd54948ac8a3[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Fri Dec 24 23:57:45 2021 +0300
+
+    feat: add contact information
+
+[33mcommit 12f096bdd0f013f72373f445906397e2910e221b[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Fri Dec 24 23:56:56 2021 +0300
+
+    feat: add personal photo
+
+[33mcommit 995df81d96f2196f82b2308141086ead55e63521[m
+Author: Natalia Kondratieva <kondratieva07@gmail.com>
+Date:   Fri Dec 24 23:53:45 2021 +0300
+
+    docs: create cv file
+
+[33mcommit e23b7e034968b03a3f6da18b63a565abb0e79f25[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: NatkaKon <94692174+NatkaKon@users.noreply.github.com>
+Date:   Fri Dec 24 23:47:05 2021 +0300
+
+    Initial commit
