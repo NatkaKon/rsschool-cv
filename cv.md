@@ -32,7 +32,7 @@ I have a degree in Economics. It was always interesting for me to try something 
 ---
 
 ### Сourses:
-* The Rolling Scopes School. Course «JavaScript/Front-end. Stage 0» (https://app.rs.school/certificate/okl5p28p)
+* [The Rolling Scopes School. Course «JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/okl5p28p)
 * [HTML WebReference](https://webref.ru/course/html-tutorial)
 * [CSS WebReference](https://webref.ru/course/css-basics)
 * [JavaScript](https://learn.javascript.ru/)
