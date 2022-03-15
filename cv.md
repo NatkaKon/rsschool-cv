@@ -1,5 +1,3 @@
-![Natalia Kondratieva](NatkaKon.png)
-
 # *Natalia Kondratieva*
 
 ---
@@ -25,7 +23,7 @@ I have a degree in Economics. It was always interesting for me to try something 
 
 ### Education:
 * __The Rolling Scopes School__ (in progress)
-    * Course «JavaScript/Front-end. Stage 0»
+    * Course «JavaScript/Front-end. Stage 1»
 * __School of Business of Belarusian State University__
     * Managerial Accounting
 * __Belarussian State Economic University__
@@ -34,6 +32,7 @@ I have a degree in Economics. It was always interesting for me to try something 
 ---
 
 ### Сourses:
+* The Rolling Scopes School. Course «JavaScript/Front-end. Stage 0» (https://app.rs.school/certificate/okl5p28p)
 * [HTML WebReference](https://webref.ru/course/html-tutorial)
 * [CSS WebReference](https://webref.ru/course/css-basics)
 * [JavaScript](https://learn.javascript.ru/)
