@@ -27,7 +27,7 @@
        margin: 0 auto;
        display: grid;
        grid-template-columns: 1fr 1.8fr; /*соотношение ширины  сторон*/
-       box-shadow: 0 35px 55px #003147; /*тень*/
+       box-shadow: 0 5px 55px #003147; /*тень*/
     }
     .container .left-side {
         position: relative;
